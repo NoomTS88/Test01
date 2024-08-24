@@ -4,8 +4,8 @@ Markdown
 
 First time with Git
 After download VS code, you need to download git-scm
-the set user name and user email
+to set user name and user email
   git config --global user.name "YOUR NAME"
   git config --global user.email "YOUR EMAIL"
 
-Done
+Done 2024
